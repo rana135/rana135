@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **MERN stack**
 
-- 📫 How to reach me **rana286090@gmail.com** & **rana286090@gmail.com**
+- 📫 How to reach me **rana286090@gmail.com** & 01969452868
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17me6aTlrrPNT21tHBzUcWKhdYUo1VWLP/view?usp=sharing](https://drive.google.com/file/d/17me6aTlrrPNT21tHBzUcWKhdYUo1VWLP/view?usp=sharing)
 
