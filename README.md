@@ -1,7 +1,7 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQGhflbaibxXEQ/profile-displaybackgroundimage-shrink_200_800/0/1654705322304?e=1667433600&v=beta&t=vGfVfqXVp_ECs-oMyiTZynOLTYs6HFfCxKTs1h2nSpM)
+![MasterHead](https://i.ibb.co/HCTxznb/git.jpg)
 <h1 align="start">Hi 👋, I'm Md Rana Hossain</h1>
 <p align="start">A passionate frontend developer from Bangladesh.I am an intellectually curious, self-motivated, and enthusiastic MERN Stack developer with a deep interest in JavaScript. I've done many projects with React.js, Node.js, Express.js and MongoDB with Firebase Authentication. I am seeking an opportunity to extend my development skill. Experience in designing and developing user interfaces, testing, debugging, and problem-solving.</p>
-<img align="right" height="240px" width="300px" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="anik2861" />
+<img align="right" height="240px" width="300px" src="https://i.ibb.co/QPVt3bK/computer.gif" alt="anik2861" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rana135&label=Profile%20views&color=0e75b6&style=flat" alt="rana135" /> </p>
 
