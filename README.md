@@ -19,7 +19,10 @@
 
 - 👨‍💻 All of my projects are available at [Personal Portfolio](https://portfolio-ba32a.web.app/)
 
-<p align="right"> <img src="https://i.ibb.co/7YSfgJL/My-Portfolio-Qr.png" alt="Portfolio Qrcode" /> </p>
+<p align="right"> <img height="100px" width="100px" src="https://i.ibb.co/7YSfgJL/My-Portfolio-Qr.png" alt="Portfolio Qrcode" /> </p>
+
+➣ I developed some interesting React projects.
+➣ I have implemented some interesting features in my websites
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17me6aTlrrPNT21tHBzUcWKhdYUo1VWLP/view?usp=sharing](https://drive.google.com/file/d/17me6aTlrrPNT21tHBzUcWKhdYUo1VWLP/view?usp=sharing)
 
