@@ -11,13 +11,15 @@
 
 - 🤝 I’m looking for help with **MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ba32a.web.app/](https://portfolio-ba32a.web.app/)
-
-- 📝 I regularly write articles on [https://agco-198f0.web.app/blogs](https://agco-198f0.web.app/blogs)
+- 📝 I regularly write articles on [Blogs](https://agco-198f0.web.app/blogs)
 
 - 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **rana286090@gmail.com** & 01969452868
+
+- 👨‍💻 All of my projects are available at [Personal Portfolio](https://portfolio-ba32a.web.app/)
+
+<p align="right"> <img src="https://i.ibb.co/7YSfgJL/My-Portfolio-Qr.png" alt="Portfolio Qrcode" /> </p>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17me6aTlrrPNT21tHBzUcWKhdYUo1VWLP/view?usp=sharing](https://drive.google.com/file/d/17me6aTlrrPNT21tHBzUcWKhdYUo1VWLP/view?usp=sharing)
 
