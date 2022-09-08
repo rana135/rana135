@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Hexa Tech](https://hexa-tech.web.app/)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Next.Js**
 
 - 🤝 I’m looking for help with **MERN stack**
 
@@ -18,12 +18,6 @@
 - 📫 How to reach me **rana286090@gmail.com** & 01969452868
 
 - 👨‍💻 All of my projects are available at [Personal Portfolio](https://portfolio-ba32a.web.app/)
-
-<div align="left">
- ➣ I developed some interesting React projects.
- 
- ➣ I have implemented some interesting features in my websites
-</div>
 
 - 📄 Know about my experiences from [Resume](https://drive.google.com/file/d/1790olOGfoIM7U-3vXEDmkKU7g7_PRDQk/view?usp=sharing)
 
