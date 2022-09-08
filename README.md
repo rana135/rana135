@@ -21,12 +21,11 @@
 
 <div align="left">
  ➣ I developed some interesting React projects.
-
+ 
  ➣ I have implemented some interesting features in my websites
 </div>
-<p align="right"> <img height="100px" width="100px" src="https://i.ibb.co/7YSfgJL/My-Portfolio-Qr.png" alt="Portfolio Qrcode" /> </p>
 
-- 📄 Know about my experiences from Resume [](https://drive.google.com/file/d/1790olOGfoIM7U-3vXEDmkKU7g7_PRDQk/view?usp=sharing)
+- 📄 Know about my experiences from [Resume](https://drive.google.com/file/d/1790olOGfoIM7U-3vXEDmkKU7g7_PRDQk/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm funny**
 
