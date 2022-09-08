@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences from [Resume](https://drive.google.com/file/d/1790olOGfoIM7U-3vXEDmkKU7g7_PRDQk/view?usp=sharing)
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I think I'm funny person**
 
 <h3 align="left">Connect With Me:</h3>
 
