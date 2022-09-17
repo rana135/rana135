@@ -3,7 +3,7 @@
 <h3 align="center">Web Development Is My Passion. I Love To Learn New Skills To Become Myself A Pro Developer</h3>
 
 <p align="start">A passionate frontend developer from Bangladesh.I am an intellectually curious, self-motivated, and enthusiastic MERN Stack developer with a deep interest in JavaScript. I've done many projects with React.js, Node.js, Express.js and MongoDB with Firebase Authentication. I am seeking an opportunity to extend my development skill. Experience in designing and developing user interfaces, testing, debugging, and problem-solving.</p>
-<img align="right" height="240px" width="380px" src="https://i.ibb.co/sKGpBHY/github.gif" alt="anik2861" />
+<img align="right" height="240px" width="300px" src="https://i.ibb.co/sKGpBHY/github.gif" alt="anik2861" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rana135&label=Profile%20views&color=0e75b6&style=flat" alt="rana135" /> </p>
 
