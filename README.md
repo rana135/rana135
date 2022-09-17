@@ -44,3 +44,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rana135&show_icons=true&locale=en" alt="rana135" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rana135&" alt="rana135" target="blank"/></p>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rana135)  
+
+![GitHub metrics](https://metrics.lecoq.io/rana135)  
