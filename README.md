@@ -1,5 +1,4 @@
 ![MasterHead](https://i.ibb.co/TbVtR0M/front-end-development.gif)
-<h1 align="center">Hi  I'm Md Rana Hossain</h1>
 <h1 align="center">Hi 👋There, I'm <img src="https://img.shields.io/badge/Developer-Md Rana%20Hossain-blue" height="30"/></h1>
 <h3 align="center">Web Development Is My Passion. I Love To Learn New Skills To Become Myself A Pro Developer</h3>
 
