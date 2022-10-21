@@ -48,3 +48,5 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rana135)  
 
 ![GitHub metrics](https://metrics.lecoq.io/rana135)  
+
+<p align="center"> <a href="https://github.com/rana135/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anik2861&row=1&column=6&theme=onedark" alt="rana" /></a> </p>
