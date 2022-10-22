@@ -61,7 +61,7 @@
 
 <div align="center">
   <img align="left" src="https://i.ibb.co/g4yLng1/coding5.png"
-       alt="Quotes" width='250'/>
+       alt="Quotes" width='250' height='100'/>
   <img align="right" src="https://i.ibb.co/BThGp9G/albert.png"
-       alt="Quotes" width='250'/>
+       alt="Quotes" width='250' height='100'/>
 </div>
