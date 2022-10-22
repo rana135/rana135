@@ -2,6 +2,11 @@
 <h1 align="center">Hi 👋There, I'm <img src="https://img.shields.io/badge/Developer-Md Rana%20Hossain-blue" height="30"/></h1>
 <h3 align="center">Web Development Is My Passion. I Love To Learn New Skills To Become Myself A Pro Developer</h3>
 
+<p align="center"> 
+  <b>Profile views</b><br>
+  <img src="https://profile-counter.glitch.me/rana135/count.svg" />
+</p>
+
 <div align="center">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" />
@@ -10,10 +15,6 @@
 <p align="start">A passionate frontend developer from Bangladesh.I am an intellectually curious, self-motivated, and enthusiastic MERN Stack developer with a deep interest in JavaScript. I've done many projects with React.js, Node.js, Express.js and MongoDB with Firebase Authentication. I am seeking an opportunity to extend my development skill. Experience in designing and developing user interfaces, testing, debugging, and problem-solving.</p>
 <img align="right" height="240px" width="280px" src="https://i.ibb.co/JpPPLxS/contact.gif" alt="Right Img" />
 
-<p align="center"> 
-  Profile views<br>
-  <img src="https://profile-counter.glitch.me/rana135/count.svg" />
-</p>
 
 - 🔭 I’m currently working on [Hexa Tech](https://hexa-tech.web.app/)
 
