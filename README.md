@@ -10,7 +10,10 @@
 <p align="start">A passionate frontend developer from Bangladesh.I am an intellectually curious, self-motivated, and enthusiastic MERN Stack developer with a deep interest in JavaScript. I've done many projects with React.js, Node.js, Express.js and MongoDB with Firebase Authentication. I am seeking an opportunity to extend my development skill. Experience in designing and developing user interfaces, testing, debugging, and problem-solving.</p>
 <img align="right" height="240px" width="280px" src="https://i.ibb.co/JpPPLxS/contact.gif" alt="Right Img" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rana135&label=Profile%20views&color=0e75b6&style=flat" alt="rana135" /> </p>
+<p align="center"> 
+  Profile views<br>
+  <img src="https://profile-counter.glitch.me/rana135/count.svg" />
+</p>
 
 - 🔭 I’m currently working on [Hexa Tech](https://hexa-tech.web.app/)
 
