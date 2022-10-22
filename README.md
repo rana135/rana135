@@ -12,6 +12,7 @@
        alt="snake" />
 </div>
 
+# 💫 About Me:
 <p align="start">A passionate frontend developer from Bangladesh.I am an intellectually curious, self-motivated, and enthusiastic MERN Stack developer with a deep interest in JavaScript. I've done many projects with React.js, Node.js, Express.js and MongoDB with Firebase Authentication. I am seeking an opportunity to extend my development skill. Experience in designing and developing user interfaces, testing, debugging, and problem-solving.</p>
 <img align="right" height="240px" width="280px" src="https://i.ibb.co/JpPPLxS/contact.gif" alt="Right Img" />
 
@@ -30,7 +31,7 @@
 
 - 📄 Know about my experiences from [Resume](https://drive.google.com/file/d/1790olOGfoIM7U-3vXEDmkKU7g7_PRDQk/view?usp=sharing)
 
-<h3 align="left">Connect With Me:</h3>
+<h3 align="left">🌐 Socials:</h3>
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100015328684042) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rana-hossain-487a09228/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chowdhurysarana/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MdRanaH69721915) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rana286090@gmail.com)
  
@@ -41,7 +42,7 @@
 
 <p align="center">
    <table>
-   <h1 align="center">Github Stats</h1>
+   <h1 align="center">📊 GitHub Stats:</h1>
        <tr>
        <td><img alt="progmamun :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=rana135&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
        <td><img alt="progmamun :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rana135&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
@@ -57,8 +58,10 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/rana135)  
 
+## 🏆 GitHub Trophies
 <p align="center"> <a href="https://github.com/rana135/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rana135&row=1&column=6&theme=onedark" alt="rana" /></a> </p>
 
+### ✍️ Random Dev Quote:
 <div align="center">
   <img src="https://i.ibb.co/g4yLng1/coding5.png"
        alt="Quotes" width='250' height='100'/>
