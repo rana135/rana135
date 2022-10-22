@@ -58,3 +58,8 @@
 ![GitHub metrics](https://metrics.lecoq.io/rana135)  
 
 <p align="center"> <a href="https://github.com/rana135/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rana135&row=1&column=6&theme=onedark" alt="rana" /></a> </p>
+
+<div>
+  <img src="https://i.ibb.co/yS7VXtN/coding2.png"
+       alt="Quotes" />
+</div>
