@@ -58,10 +58,10 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/rana135)  
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 <p align="center"> <a href="https://github.com/rana135/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rana135&row=1&column=6&theme=onedark" alt="rana" /></a> </p>
 
-### ✍️ Random Dev Quote:
+## ✍️ Random Dev Quote:
 <div align="center">
   <img src="https://i.ibb.co/g4yLng1/coding5.png"
        alt="Quotes" width='250' height='100'/>
