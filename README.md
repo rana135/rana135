@@ -59,7 +59,9 @@
 
 <p align="center"> <a href="https://github.com/rana135/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rana135&row=1&column=6&theme=onedark" alt="rana" /></a> </p>
 
-<div>
-  <img src="https://i.ibb.co/yS7VXtN/coding2.png"
-       alt="Quotes" />
+<div align="center">
+  <img align="left" src="https://i.ibb.co/g4yLng1/coding5.png"
+       alt="Quotes" width='250'/>
+  <img align="right" src="https://i.ibb.co/BThGp9G/albert.png"
+       alt="Quotes" width='250'/>
 </div>
