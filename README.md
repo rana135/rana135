@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Web Solutions**
 
-- 📫 How to reach me **rana286090@gmail.com**
+- 📫 How to reach me *rana286090@gmail.com*
 
 - 👨‍💻 All of my projects are available at [Personal Portfolio](https://portfolio-ba32a.web.app/)
 
