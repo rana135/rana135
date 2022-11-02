@@ -27,7 +27,7 @@
 
 - 👨‍💻 All of my projects are available at [Personal Portfolio](https://portfolio-ba32a.web.app/)
 
-- 📄 Know about my experiences from [Resume](https://drive.google.com/file/d/1790olOGfoIM7U-3vXEDmkKU7g7_PRDQk/view?usp=sharing)
+- 📄 My past work experience at [Resume](https://drive.google.com/file/d/1790olOGfoIM7U-3vXEDmkKU7g7_PRDQk/view?usp=sharing)
 
 ## 🌐 Socials:
 
