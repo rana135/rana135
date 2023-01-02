@@ -1,6 +1,6 @@
 ![MasterHead](https://i.ibb.co/stbWJST/final-banner.jpg)
 <h1 align="center">Hi 👋There, I'm <img src="https://img.shields.io/badge/Developer-Md Rana%20Hossain-blue" height="30"/></h1>
-<h3 align="center">Playing with Code is my passion.. Client satisfaction is my motivation!</h3>
+<h3 align="center">Playing with Code is my passion. Client satisfaction is my motivation!</h3>
 
 <p align="center"> 
   <b>Profile views</b><br>
