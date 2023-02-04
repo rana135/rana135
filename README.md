@@ -27,7 +27,8 @@
 
 - 👨‍💻 All of my projects are available at [Personal Portfolio](https://portfolio-ba32a.web.app/)
 
-- 📄 My youtube channel [Learn With Fun](https://www.youtube.com/@learn_with-fun)
+- ![image](https://user-images.githubusercontent.com/96783512/216751798-b5bf6b92-a698-4fac-bd2d-feabbb2efe37.png)
+ My youtube channel [Learn With Fun](https://www.youtube.com/@learn_with-fun)
 
 ## 🌐 Socials:
 
