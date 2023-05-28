@@ -1,5 +1,5 @@
 <p align="center">
-  <img width='100%' src="https://i.ibb.co/T0L7MrH/github.jpg" />
+  <img width='90%' height='350px' src="https://i.ibb.co/T0L7MrH/github.jpg" />
 </p>
 <h1 align="center">Hi 👋There, I'm <img src="https://img.shields.io/badge/Developer-Md Rana%20Hossain-blue" height="30"/></h1>
 <h3 align="center">Playing with Code is my passion. Client satisfaction is my motivation!</h3>
