@@ -29,7 +29,7 @@
 
 - 👨‍💻 All of my projects are available at [Personal Portfolio](https://portfolio-ba32a.web.app/)
 
-- My youtube channel [Learn With Fun](https://www.youtube.com/@learn_with-fun)
+- My youtube channel [Learn With Fun](https://www.youtube.com/@learnwithfunwithrana)
 
 ## 🌐 Socials:
 
