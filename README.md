@@ -18,16 +18,11 @@
 <p align="start">A passionate frontend developer from Bangladesh.I am an intellectually curious, self-motivated, and enthusiastic MERN Stack developer with a deep interest in JavaScript. I've done many projects with React.js, Node.js, Express.js and MongoDB with Firebase Authentication. I am seeking an opportunity to extend my development skill. Experience in designing and developing user interfaces, testing, debugging, and problem-solving.</p>
 <img align="right" height="240px" width="280px" src="https://i.ibb.co/TbVtR0M/front-end-development.gif" alt="Right Img" />
 
-
-- 🔭 I’m currently working on [Hexa Tech](https://hexa-tech.web.app/)
-
 - 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **Web Solutions**
 
 - 📫 How to reach me *rana286090@gmail.com*
-
-- 👨‍💻 All of my projects are available at [Personal Portfolio](https://portfolio-ba32a.web.app/)
 
 - My youtube channel [Learn With Fun](https://www.youtube.com/@learnwithfunwithrana)
 
